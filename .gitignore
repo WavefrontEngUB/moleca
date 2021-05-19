@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Images and pdf outputs of the example
+*.pdf
+*.png
+
 # C extensions
 *.so
 
