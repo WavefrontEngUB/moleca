@@ -7,7 +7,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.axes_grid1 import make_axes_locatable
 from mpl_toolkits.axes_grid1.inset_locator import inset_axes
-from COCOA import rw_matrix
+from moleca import rw_matrix
 import os
 from scipy.special import laguerre
 
