@@ -17,7 +17,7 @@ def rw_matrix(tau, WS, Lx, Ly, f, NA, z=0, lamb=500e-6, dtype=np.complex64,
         full_matrix=False):
     """
     Computes the CSDM of a highly focused Electromagnetic Schell
-    model beam based on the COCOA algorithm [reference pending].
+    model beam based on the Moleca algorithm [reference pending].
 
     Input:
         - tau: (Ny, Nx, 2, 2) matrix, containing the amplitudes of the input beam.
